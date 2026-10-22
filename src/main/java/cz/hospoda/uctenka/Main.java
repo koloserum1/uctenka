@@ -1,4 +1,4 @@
-ackage cz.hospoda.uctenka;
+package cz.hospoda.uctenka;
 
 import java.io.IOException;
 import java.io.Reader;
